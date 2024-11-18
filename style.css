@@ -1,0 +1,13 @@
+body { background: #7EACB5; text-align: center; font-family: "Lucida Console", "Courier New", monospace;}
+.table { border:#432E54 dotted 5px; }
+.table-bordered { border: #432E54 solid 5px  }
+img { max-width:200px; max-height:250px;}
+P { text-align: center; font-size: 13px; font-family: "Lucida Console", "Courier New", monospace; line-height: 1.8;}
+pre { text-align: center; font-size: 16px; font-family: "Lucida Console", "Courier New", monospace;}
+h1 { font-size: 70px; border: #432E54 dotted 10px; font-family: "Lucida Console", "Courier New", monospace; 
+	background-color: white;}
+.table-dark { font-size: 23px; font-family: "Lucida Console", "Courier New", monospace; }
+th, td { padding: 5px;}
+table { border-spacing: 30px; margin: auto;}
+.solid {background-color: white; border:#432E54 solid 5px; padding: 5px; margin: auto; max-height: 100%; max-width: 70%;
+		font-size: 13px; font-family: "Lucida Console", "Courier New", monospace; text-align: center; line-height: 1.8;}
